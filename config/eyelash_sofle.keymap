@@ -71,7 +71,7 @@
 
         Main {
             bindings = <
-&kp TILDE         &kp N1                &kp N2                    &kp N3                 &kp N4                      &kp N5     &kp UP_ARROW     &kp N6     &kp N7                        &kp N8                  &kp N9                      &kp N0                         &kp BACKSPACE
+&kp GRAVE         &kp N1                &kp N2                    &kp N3                 &kp N4                      &kp N5     &kp UP_ARROW     &kp N6     &kp N7                        &kp N8                  &kp N9                      &kp N0                         &kp BACKSPACE
 &kp LEFT_BRACKET  &kp Q                 &kp W                     &kp E                  &kp R                       &kp T      &kp DOWN_ARROW   &kp Y      &kp U                         &kp I                   &kp O                       &kp P                          &kp RIGHT_BRACKET
 &kp BACKSLASH     &left_homerow LGUI A  &left_homerow LEFT_ALT S  &left_homerow LCTRL D  &left_homerow LEFT_SHIFT F  &kp G      &kp LEFT_ARROW   &kp H      &right_homerow RIGHT_SHIFT J  &right_homerow RCTRL K  &right_homerow RIGHT_ALT L  &right_homerow RGUI SEMICOLON  &kp APOS
 &kp MINUS         &kp Z                 &kp X                     &kp C                  &kp V                       &kp B      &kp RIGHT_ARROW  &kp N      &kp M                         &kp COMMA               &kp DOT                     &kp FSLH                       &kp EQUAL
